@@ -6,4 +6,5 @@ max = a if (a>b) and (a> c) else b if (b>c) else c
 
 print("The max number: ", max)
 print("What's next?")
+print("Creating new branch.")
 
