@@ -1,3 +1,3 @@
-print("Hello you!")
-print("I am a good boy.")
-print("You bad")
+a, b, c =map(int, input().split())
+
+print("The sum = ", a+b+c)
