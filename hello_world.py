@@ -11,4 +11,4 @@ print("Creating new branch.")
 print(f'The sum {a+b+c}')
 print("The end")
 
-print("What is going on?")
+print("What's going on?")
