@@ -5,5 +5,5 @@ print("The sum = ", a+b+c)
 max = a if (a>b) and (a> c) else b if (b>c) else c
 
 print("The max number: ", max)
-print("What's next?")
+print("What's going on here?")
 
